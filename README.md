@@ -1,1 +1,1 @@
-# HMS
+# fr-hms
